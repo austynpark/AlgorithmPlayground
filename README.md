@@ -18,3 +18,6 @@ https://leetcode.com/problems/minimum-size-subarray-sum/?envType=study-plan-v2&e
 
 ## 46. Permutations
 https://leetcode.com/problems/permutations/description/?envType=study-plan-v2&envId=top-interview-150
+
+## 17. Letter Combinations of a Phone Number
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=study-plan-v2&envId=top-interview-150
